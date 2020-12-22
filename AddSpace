@@ -1,0 +1,4 @@
+Add a space between letters
+A1 value   :: ABCD
+B1 formula :: =REGEXREPLACE(A1, "(.)", "$1 "))
+B1 value   :: A B C D
